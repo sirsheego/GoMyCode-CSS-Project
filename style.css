@@ -1,0 +1,94 @@
+
+body {
+
+    background-image: url("bodyimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+.foot1{
+    font-family: roboto;
+    width: 100%;
+    font-size:20px;
+    display:flex;
+    text-align: left;    
+    list-style: none;
+    justify-content: left;
+    gap: 3%;
+    position: relative;
+}
+
+
+.foot1 a{
+    position: relative;
+    margin-top: 25%;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    
+}
+
+.nav-about
+{  
+    font-family: roboto;
+    width: 100%;
+    font-size:20px;
+    display:flex;
+    text-align: right;    
+    list-style: none;
+    justify-content: right;
+    gap: 3%;
+    position: relative;
+    color:#22b14c;
+}
+
+.nav-about a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.nasa-body{
+    font-family:Helvetica;
+    font-weight: bold;
+    width: 30%;
+    font-size: 60px;
+    color:white;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.hero{
+    justify-content: center;
+    position: relative;
+}
+
+
+.nasa-new-title{
+    float: right;
+}
+
+.nasa2{
+    font-family: roboto;
+    font-weight: light;
+    width: 21%;
+    font-size: 30px;
+    color:white;
+    text-align: left;
+}
+
+
+.h1-first
+{
+    font-family: roboto;
+    font-weight: bold;
+    width: 21%;
+    background-color:#672532;
+    color: white;
+}
+
+.div1{
+    text-align: center;
+}
